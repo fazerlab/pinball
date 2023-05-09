@@ -7,7 +7,7 @@ Nesse repositório será disponibilizado o firmware e documentação para montag
 ![acionador capa](docs/esquematico.png)
 
 Montagem do Hardware
-![acionador capa](docs/esquematico.png)
+![acionador capa](docs/detalhe_montagem.png)
 
  # Atividades:
 - [x] Diagrama Esquemático
