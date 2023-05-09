@@ -3,4 +3,7 @@ Firmware e Hardware
 
 ![acionador capa](docs/foto_montagem.png)
 
+# Diagrama Esquemático
+![acionador capa](docs/esquematico.png)
+
 
