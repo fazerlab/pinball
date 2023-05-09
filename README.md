@@ -6,4 +6,10 @@ Nesse repositório será disponibilizado o firmware e documentação para montag
 # Diagrama Esquemático
 ![acionador capa](docs/esquematico.png)
 
+ # Atividades:
+- [x] Diagrama Esquemático
+- [ ] Firmware
+- [ ] Manual de configuração e uso
+- [ ] Tutoriais
+
 
